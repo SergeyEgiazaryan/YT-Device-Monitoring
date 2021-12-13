@@ -1,1 +1,1 @@
-print('salamu aleychim')
+print('salamu aleychim aaaaaa')
