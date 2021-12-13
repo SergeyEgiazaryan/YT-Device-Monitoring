@@ -1,0 +1,1 @@
+print('salamu aleychim gagashlar')
