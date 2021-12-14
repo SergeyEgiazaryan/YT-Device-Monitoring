@@ -1,1 +1,1 @@
-print('si sinoro')
+print('si')
