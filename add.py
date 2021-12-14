@@ -1,1 +1,1 @@
-print('da ny')
+print('da ny ne nuzhno')
