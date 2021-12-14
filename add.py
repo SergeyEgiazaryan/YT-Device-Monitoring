@@ -1,1 +1,1 @@
-print('da, ny ladno togda')
+print('da ny naf')
