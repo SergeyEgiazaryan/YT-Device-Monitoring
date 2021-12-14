@@ -1,1 +1,1 @@
-print('da ny ego')
+print('da, ny ladno togda')
